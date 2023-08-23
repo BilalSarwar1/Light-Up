@@ -1,0 +1,3 @@
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.Services.Core.Internal.csproj.AssemblyReference.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.Services.Core.Internal.csproj.CoreCompileInputs.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.Services.Core.Internal.dll

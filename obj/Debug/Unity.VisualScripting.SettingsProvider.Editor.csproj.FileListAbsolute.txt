@@ -1,0 +1,3 @@
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.VisualScripting.SettingsProvider.Editor.csproj.AssemblyReference.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.VisualScripting.SettingsProvider.Editor.csproj.CoreCompileInputs.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.VisualScripting.SettingsProvider.Editor.dll

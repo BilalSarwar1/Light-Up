@@ -1,0 +1,3 @@
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.RenderPipelines.Universal.Runtime.csproj.AssemblyReference.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.RenderPipelines.Universal.Runtime.csproj.CoreCompileInputs.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.RenderPipelines.Universal.Runtime.dll

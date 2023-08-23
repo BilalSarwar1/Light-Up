@@ -1,0 +1,3 @@
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.2D.SpriteShape.Runtime.csproj.AssemblyReference.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.2D.SpriteShape.Runtime.csproj.CoreCompileInputs.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.2D.SpriteShape.Runtime.dll

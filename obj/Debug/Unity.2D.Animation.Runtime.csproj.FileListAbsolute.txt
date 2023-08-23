@@ -1,0 +1,3 @@
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.2D.Animation.Runtime.csproj.AssemblyReference.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.2D.Animation.Runtime.csproj.CoreCompileInputs.cache
+D:\Free code camp\Light Up\Light Up UI\Light Up UI\obj\Debug\Unity.2D.Animation.Runtime.dll
